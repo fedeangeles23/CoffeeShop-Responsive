@@ -1,3 +1,5 @@
+/* Header settings */
+
 .header{
     background: var(--bg);
     display: flex;
@@ -8,4 +10,24 @@
     position: fixed;
     top:0; left: 0; right: 0;
     z-index: 1000;
+}
+
+/* Header logo settings */
+
+.header .logo img{
+    height: 6rem;
+}
+
+/* Header navbar settings */
+
+.header .navbar a{
+    margin:0 1rem;
+    font-size: 1.6rem;
+    color:#fff;
+}
+
+.header .navbar a:hover{
+    color:var(--main-color);
+    border-bottom: .1rem solid var(--main-color);
+    padding-bottom: .5rem;
 }
