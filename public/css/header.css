@@ -31,3 +31,16 @@
     border-bottom: .1rem solid var(--main-color);
     padding-bottom: .5rem;
 }
+
+/* Header icons settings */
+
+.header .icons div{
+    color:#fff;
+    cursor: pointer;
+    font-size: 2.5rem;
+    margin-left: 2rem;
+}
+
+.header .icons div:hover{
+    color:var(--main-color);
+}
