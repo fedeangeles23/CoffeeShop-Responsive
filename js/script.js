@@ -1,4 +1,4 @@
-/* Event menu-button start */
+/* Event - menu-button action start */
 
 let navbar = document.querySelector('.navbar');
 
@@ -8,7 +8,7 @@ document.querySelector('#menu-btn').onclick = () =>{
     cartItem.classList.remove('active');
 }
 
-/* Event - Searchform start */
+/* Event - search action start */
 
 let searchForm = document.querySelector('.search-form');
 
@@ -16,4 +16,14 @@ document.querySelector('#search-btn').onclick = () =>{
     searchForm.classList.toggle('active');
     navbar.classList.remove('active');
     cartItem.classList.remove('active');
+}
+
+/* Event - cart action start */
+
+let cartItem = document.querySelector('.cart-items-container');
+
+document.querySelector('#cart-btn').onclick = () =>{
+    cartItem.classList.toggle('active');
+    navbar.classList.remove('active');
+    searchForm.classList.remove('active');
 }
