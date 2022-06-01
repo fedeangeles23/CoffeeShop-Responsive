@@ -1,4 +1,4 @@
-/* Header settings */
+/* Header settings start */
 
 .header{
     background: var(--bg);
@@ -11,6 +11,9 @@
     top:0; left: 0; right: 0;
     z-index: 1000;
 }
+
+/* Header settings ends */
+
 
 /* Header logo settings */
 
@@ -32,7 +35,10 @@
     padding-bottom: .5rem;
 }
 
-/* Header icons settings */
+/* Header navbar settings ends */
+
+
+/* Header icons settings start */
 
 .header .icons div{
     color:#fff;
@@ -45,13 +51,16 @@
     color:var(--main-color);
 }
 
+/* Header icons settings ends */
+
+
 /* hiding the menu button */
 
-/* #menu-btn{
+#menu-btn{
     display: none;
-} */
+}
 
-/* Header search settings */
+/* Header search settings start */
 
 .header .search-form{
     position: absolute;
@@ -88,6 +97,9 @@
 .header .search-form label:hover{
     color:var(--main-color);
 }
+
+/* Header search settings ends */
+
 
 /* Header cart settings button start */
 
