@@ -27,3 +27,11 @@ document.querySelector('#cart-btn').onclick = () =>{
     navbar.classList.remove('active');
     searchForm.classList.remove('active');
 }
+
+/* Event - Close events windows */
+
+window.onscroll = () =>{
+    navbar.classList.remove('active');
+    searchForm.classList.remove('active');
+    cartItem.classList.remove('active');
+}
