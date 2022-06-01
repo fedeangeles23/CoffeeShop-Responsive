@@ -89,8 +89,26 @@
     color:var(--main-color);
 }
 
-/* Header cart settigns start */
+/* Header cart settings button start */
 
+.btn{
+    margin-top: 1rem;
+    display: inline-block;
+    padding:.9rem 3rem;
+    font-size: 1.7rem;
+    color:#fff;
+    background: var(--main-color);
+    cursor: pointer;
+}
+
+.btn:hover{
+    letter-spacing: .2rem;
+}
+
+/* Header cart settings button ends */
+
+
+/* Header cart settings start */
 
 .header .cart-items-container{
     position: absolute;
