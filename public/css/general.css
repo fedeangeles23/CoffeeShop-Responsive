@@ -17,7 +17,7 @@
 
 /* HTML - webkit settings start */
 
-/* html{
+html{
     font-size: 62.5%;
     overflow-x: hidden;
     scroll-padding-top: 9rem;
@@ -35,7 +35,7 @@ html::-webkit-scrollbar-track{
 html::-webkit-scrollbar-thumb{
     background: #fff;
     border-radius: 5rem;
-} */
+}
 
 /* HTML - webkit settings ends */
 
@@ -46,9 +46,9 @@ body{
     background: var(--bg);
 }
 
-body {
+/* body {
     background: rgb(39, 38, 38)
-}
+} */
 
 /* Body settings ends */
 
