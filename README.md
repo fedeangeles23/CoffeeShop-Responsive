@@ -26,3 +26,7 @@
 ## MAIN - OUR PRODUCTS PRESENTATION
 
 <img src="https://i.postimg.cc/bvqKbnmp/home-ourproducts.jpg" alt="Our-Products"></img>
+
+## MAIN - CUSTOMER'S REVIEW PRESENTATION
+
+<img src="https://i.postimg.cc/jdwpHtK3/home-review.jpg" alt="review"></img>
