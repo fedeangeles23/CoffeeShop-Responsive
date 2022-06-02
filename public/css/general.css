@@ -64,7 +64,7 @@ section{
 
 /* Heading settings start */
 
-/* .heading{
+.heading{
     text-align: center;
     color:#fff;
     text-transform: uppercase;
@@ -75,6 +75,6 @@ section{
 .heading span{
     color:var(--main-color);
     text-transform: uppercase;
-} */
+}
 
 /* Heading settings ends */
