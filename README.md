@@ -13,3 +13,7 @@
 ## MAIN - HOME PRESENTATION
 
 <img src="https://i.postimg.cc/PJDfCZqT/home-main.jpg" alt="Home"></img>
+
+## MAIN - ABOUT US PRESENTATION
+
+<img src="https://i.postimg.cc/7YDr3jsg/home-aboutus.jpg" alt="About Us"></img>
