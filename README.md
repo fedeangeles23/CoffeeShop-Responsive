@@ -31,13 +31,7 @@
 
 <img src="https://i.postimg.cc/jdwpHtK3/home-review.jpg" alt="review"></img>
 
-## MAIN - CONTACT US PRESENTATION
 
-<img src="https://i.postimg.cc/ZKXPB3cQ/Sin-t-tulo.jpg" alt="contact"></img>
-
-## MAIN - BLOGS PRESENTATION
-
-<img src="https://i.postimg.cc/kG0V4NmF/Sin-t-tulo1.jpg" alt="blogs"></img>
 
 
 
