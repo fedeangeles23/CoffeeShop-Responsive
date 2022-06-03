@@ -37,4 +37,4 @@
 
 ## MAIN - BLOGS PRESENTATION
 
-<img src="" alt="blogs"></img>
+<img src="https://i.postimg.cc/Bb1MzGBS/blog.jpg" alt="blogs"></img>
