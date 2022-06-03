@@ -31,9 +31,10 @@
 
 <img src="https://i.postimg.cc/jdwpHtK3/home-review.jpg" alt="review"></img>
 
+## MAIN - CONTACT PRESENTATION
 
+<img src="https://i.postimg.cc/R0R1p0rQ/main-contac.jpg" alt="contact"></img>
 
+## MAIN - BLOGS PRESENTATION
 
-
-
-
+<img src="https://i.postimg.cc/Bb1MzGBS/blog.jpg" alt="blogs"></img>
